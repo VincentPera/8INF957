@@ -1,4 +1,4 @@
-# Battleship+ [8INF957]
+# Projet de POO avancée [8INF957]
 
 ## Authors
 
