@@ -6,6 +6,10 @@
 * PERA Vincent [PERV19019504]
 * LE BOUCHER Matthieu [LEBM13039408]
 
+## Exercices
+
+* BattleShip+ : https://github.com/VincentPera/Battleship
+
 ## Description rapide du projet de POO
 
 Nous souhaitons développer un petit jeu de course type *Micromachine* en réseau.
