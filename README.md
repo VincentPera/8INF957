@@ -12,7 +12,7 @@
 
 ## Description rapide du projet de POO
 
-Remarque : La description complète est disponible sur ce github sous le nom **SRS_Genetic_Driver.pdf**[https://github.com/VincentPera/8INF957/SRS_Genetic_Driver.pdf]
+Remarque : La description complète est disponible sur ce github sous le nom [**SRS_Genetic_Driver.pdf**](https://github.com/VincentPera/8INF957/SRS_Genetic_Driver.pdf)
 
 Nous souhaitons développer un petit jeu de course type *Micromachine* en réseau.
 Nous développerons aussi une intelligence artificielle capable dee jouer au jeu en utilisant les technologies d'algorithmes génétiques.
