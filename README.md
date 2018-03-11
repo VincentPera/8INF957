@@ -9,6 +9,7 @@
 ## Exercices
 
 * BattleShip+ : https://github.com/VincentPera/Battleship
+* Pigeon Square : https://github.com/Meight/PigeonsSquare
 
 ## Description rapide du projet de POO
 
