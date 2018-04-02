@@ -10,6 +10,7 @@
 
 * BattleShip+ : https://github.com/VincentPera/Battleship
 * Pigeon Square : https://github.com/Meight/PigeonsSquare
+* Gomoku : https://github.com/Meight/Gomoku
 
 ## Description rapide du projet de POO
 
